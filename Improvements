@@ -1,0 +1,43 @@
+Out city
+No answer
+Phone off
+Unable to paay
+Havn't ordered
+Price difference
+Wrong pckage
+Customer request to unpack
+Bad whether
+Rescheduled
+Other - done
+
+reject and return should be there with same reason as above .
+
+Oil price need to be calulated.(KM , 40 or 50  , 1 liter price)
+
+Reset of money shoud put in the branch 
+
+Returned  reschedule ned to be add 
+
+Save should be individual and when photo is taken and come back there is no data . and last added one is missing. - resolved
+
+Id should be show - resolved
+
+Major ceitiy should be showed and the paritition should be broken 
+
+Photo should be in front of the ticket - done
+
+Number of each should be showed in front of them.
+
+Table extractor should be chaged- becuse the high price value didnt gave value
+
+User acss should be implemented
+
+change colour and round each tickets - 2nd done
+
+Need to add order manually
+
+When list is long cant show edit prompt
+
+When other is typing to click whole stuck.(Other type click window is later open like after camera is open)
+
+
